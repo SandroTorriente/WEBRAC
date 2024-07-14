@@ -1,0 +1,10 @@
+### create roll
+POST http://localhost:3000/roll
+content-type: application/json
+
+{
+    "content": "hi there"
+}
+
+### obtener 
+GET http://localhost:3000/roll

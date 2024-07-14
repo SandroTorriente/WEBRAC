@@ -1,0 +1,1 @@
+export { CreateBrandDto } from "./create-brand.dto";
